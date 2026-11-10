@@ -4,15 +4,6 @@ A production-grade, offline-first Flutter application built for the **Senior Flu
 
 ---
 
-## 📦 Submission Artifacts & Screen Recording
-
-- **🎬 Screen Recording Demo / Artifact 1:** [Google Drive Link 1](https://drive.google.com/file/d/1ZOD0Ktp9FBFhO-BrxwugW2bBoVOjAcV_/view?usp=drive_link)
-- **📱 Build Artifact 2 (Android APK / iOS App):** [Google Drive Link 2](https://drive.google.com/file/d/1liY96H6x6Eu_MIXJnCyHCsdr5G703VHW/view?usp=drive_link)
-- **🍏 Build Artifact 3 (iOS Simulator `.app` / Video):** [Google Drive Link 3](https://drive.google.com/file/d/1jCUsngPsAaaiLWtW8gF0jmuWup_xcGJq/view?usp=drive_link)
-
-*(Note: Please ensure Google Drive link sharing permissions are set to **"Anyone with the link can view"**)*
-
----
 
 ## 📋 Table of Contents
 1. [Overview & Features](#overview--features)
