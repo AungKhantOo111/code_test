@@ -1,0 +1,160 @@
+{
+  "member": {
+    "id": "user_001",
+    "name": "Hania",
+    "photoUrl": "assets/images/user_avatar.png",
+    "tier": "Bronze",
+    "points": 1290,
+    "nextTier": "Gold",
+    "pointsToNextTier": 1290,
+    "totalPoints": 680000,
+    "unreadNotifications": 12
+  },
+  "banners": [
+    {
+      "id": "b_001",
+      "title": "We are now at Central Boulevard",
+      "subtitle": "New shop",
+      "actionUrl": "https://jdonuts.com/central-boulevard",
+      "imageUrl": "assets/images/banner_boulevard.png"
+    },
+    {
+      "id": "b_002",
+      "title": "Hot Donuts fresh from the oven",
+      "subtitle": "Fresh daily",
+      "actionUrl": "https://jdonuts.com/fresh-daily",
+      "imageUrl": "assets/images/banner_boulevard.png"
+    }
+  ],
+  "seasonal_specials": [
+    {
+      "id": "p_mistletoe",
+      "code": "JD022130",
+      "name": "Mistletoe Romance box",
+      "priceMmk": 8500,
+      "isNew": false,
+      "discountPercent": 50,
+      "imageUrl": "assets/images/1.png",
+      "description": "Handcrafted festive donuts with chocolate drizzle and sugar sparkles, made for sharing."
+    },
+    {
+      "id": "p_christmas_family",
+      "code": "JD022131",
+      "name": "Christmas Miracle Family box",
+      "priceMmk": 12000,
+      "isNew": true,
+      "discountPercent": null,
+      "imageUrl": "assets/images/2.png",
+      "description": "The ultimate family assortment with six premium decorated donuts."
+    }
+  ],
+  "popular": [
+    {
+      "id": "p_coconut",
+      "code": "JD022123",
+      "name": "Coconut Donut",
+      "priceMmk": 3200,
+      "isNew": true,
+      "discountPercent": null,
+      "imageUrl": "assets/images/3.png",
+      "description": "Enjoy our scrumptious donuts – soft, sweet, and satisfying in every bite. Choose from classic glazed, rich chocolate, or fun sprinkles. Dive into deliciousness now!"
+    },
+    {
+      "id": "p_strawberry",
+      "code": "JD022124",
+      "name": "Strawberry Chocolate Donuts",
+      "priceMmk": 3500,
+      "isNew": false,
+      "discountPercent": null,
+      "imageUrl": "assets/images/2.png",
+      "description": "Sweet strawberry glaze swirled with premium dark chocolate."
+    },
+    {
+      "id": "p_dalgona",
+      "code": "JD022125",
+      "name": "Dalgona Creamy Coffee",
+      "priceMmk": 4200,
+      "isNew": false,
+      "discountPercent": null,
+      "imageUrl": "assets/images/4.png",
+      "description": "Whipped velvety coffee cream served over iced fresh milk."
+    }
+  ],
+  "order_again": [
+    {
+      "id": "p_santa_cookies_1",
+      "code": "JD022126",
+      "name": "Santa's favorite cookies set",
+      "priceMmk": 4000,
+      "isNew": false,
+      "discountPercent": 20,
+      "imageUrl": "assets/images/5.png",
+      "description": "Crispy buttery cookies paired with delicious chocolate chips."
+    },
+    {
+      "id": "p_santa_cookies_2",
+      "code": "JD022127",
+      "name": "Santa's favorite cookies set",
+      "priceMmk": 4000,
+      "isNew": false,
+      "discountPercent": 20,
+      "imageUrl": "assets/images/4.png",
+      "description": "Crispy buttery cookies paired with delicious chocolate chips."
+    }
+  ],
+  "shops": [
+    {
+      "id": "s_001",
+      "name": "Myaynigone J'Donut",
+      "address": "2972 Pyay Road, Sanchaung Township, Yangon",
+      "imageUrl": "assets/images/shop.jpeg"
+    },
+    {
+      "id": "s_002",
+      "name": "Central Boulevard J'Donut",
+      "address": "Central Boulevard, Hlaing Township, Yangon",
+      "imageUrl": "assets/images/shop.jpeg"
+    },
+    {
+      "id": "s_003",
+      "name": "Junction City J'Donut",
+      "address": "Bogyoke Aung San Road, Pabedan, Yangon",
+      "imageUrl": "assets/images/shop.jpeg"
+    },
+    {
+      "id": "s_004",
+      "name": "Hledan Centre J'Donut",
+      "address": "Corner of Pyay Road and Hledan Road, Kamayut, Yangon",
+      "imageUrl": "assets/images/shop.jpeg"
+    }
+  ],
+  "challenges": [
+    {
+      "id": "c_001",
+      "title": "Eat 4 Coco donuts",
+      "current": 4,
+      "target": 4,
+      "rewardPoints": 100,
+      "type": "donut",
+      "imageUrl": "assets/images/2.png"
+    },
+    {
+      "id": "c_002",
+      "title": "Eat 4 Coco donuts",
+      "current": 1,
+      "target": 4,
+      "rewardPoints": 100,
+      "type": "donut",
+      "imageUrl": "assets/images/6.png"
+    },
+    {
+      "id": "c_003",
+      "title": "Drink 12 cups americano",
+      "current": 9,
+      "target": 12,
+      "rewardPoints": 100,
+      "type": "coffee",
+      "imageUrl": "assets/images/7.png"
+    }
+  ]
+}
